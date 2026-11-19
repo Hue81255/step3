@@ -50,7 +50,7 @@ ON/OFF 평가는 이미지에 해당 결함이 있는지를 기준으로 진행�
 | Mask mAP50-95 | 0.2838 |
 | ON/OFF Macro F1 | 0.9077 |
 
-세그멘테이션에서는 Spall_detach가 가장 높은 성능을 보였고, ON/OFF 평가에서는 Efflorescence가 가장 높은 F1 점수를 기록하였다.
+세그멘테이션에서는 Spall_detach가 가장 높은 성능을 보였고, ON/OFF 평가에서는 Efflorescence가 가장 높은 F1 점수를 기록
 
 5. 오류 분석
 
